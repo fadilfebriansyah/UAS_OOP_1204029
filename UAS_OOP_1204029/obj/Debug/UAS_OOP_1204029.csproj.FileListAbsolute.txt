@@ -1,0 +1,17 @@
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\bin\Debug\UAS_OOP_1204029.exe.config
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\bin\Debug\UAS_OOP_1204029.exe
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\bin\Debug\UAS_OOP_1204029.pdb
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.Index.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.Properties.Resources.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.exe
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.pdb
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.InputDaftarUlang.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.InputMahasiswa.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.InputProgramStudi.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.UpdateDaftarUlang.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.UpdateMahasiswa.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.ViewDaftarUlang.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.ViewMahasiswa.resources
+D:\Kuliah\Semester 3\Pemrograman\UAS FIX\UAS_OOP_1204029\UAS_OOP_1204029\obj\Debug\UAS_OOP_1204029.ViewProgramStudi.resources
